@@ -1,0 +1,15 @@
+listen_addr: :8080
+system_key: cos
+
+obs:
+  ak: SDV1D5FF1SDGVAFSDBGHDF,
+  sk: H5asdSAD15158sdv15DSdvsd1asd15,
+  endpoint: http://obs.cn-east-3.myhuaweicloud.com,
+  bucket: obs-server,
+
+cos:
+  secret_id: AK47IDna22s3d54SH3N2DC12J2S4cadcnB,
+  secret_key: 4sad1c1SFc1dvCDZDc15CD15CDCD53685,
+  bucket: cos-server-13215810,
+  region: ap-shanghai,
+  is_debug: true,
